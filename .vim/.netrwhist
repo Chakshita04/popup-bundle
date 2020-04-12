@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/chakshita/bundle.h'
+let g:netrw_dirhist_2='/home/chakshita/bundle.c'
+let g:netrw_dirhist_3='/home/chakshita/bundle.h'
+let g:netrw_dirhist_4='/home/chakshita/bundle.c'
